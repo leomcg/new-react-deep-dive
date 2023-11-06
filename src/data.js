@@ -80,3 +80,5 @@ function Counter() {
 }`,
   },
 };
+
+export const TOPICS = ["components", "jsx", "props", "state"];
